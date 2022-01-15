@@ -2,3 +2,9 @@ flask
 numpy
 sklearn
 seaborn
+pandas
+scipy
+nagesh
+dhanu
+tensorflow
+keras
